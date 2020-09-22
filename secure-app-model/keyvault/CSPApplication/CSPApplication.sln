@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPVApplication", "CPVApplication\CPVApplication.csproj", "{9283AF7A-6CA9-4373-93CB-F5D2130E1889}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSPApplication", "CSPApplication.csproj", "{9283AF7A-6CA9-4373-93CB-F5D2130E1889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3CBE281A-E046-480F-8FC6-34536B951BEC}
+		SolutionGuid = {BD89090A-0187-445E-BC08-95C6374EB942}
 	EndGlobalSection
 EndGlobal
